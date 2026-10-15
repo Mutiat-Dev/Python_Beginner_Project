@@ -1,0 +1,87 @@
+[
+    {
+        "question": "What is 2 + 2?",
+        "options": ["3", "4", "5", "6"],
+        "answer": "b"
+    },
+    {
+        "question": "What is 10 - 6?",
+        "options": ["2", "3", "4", "5"],
+        "answer": "c"
+    },
+    {
+        "question": "What is 5 * 3?",
+        "options": ["8", "15", "20", "10"],
+        "answer": "b"
+    },
+    {
+        "question": "What is 20 / 4?",
+        "options": ["4", "8", "6", "5"],
+        "answer": "d"
+    },
+    {
+        "question": "Which language is commonly used for data analysis?",
+        "options": ["Python", "HTML", "CSS", "SQL"],
+        "answer": "a"
+    },
+    {
+        "question": "What does CPU stand for?",
+        "options": [
+            "Central Processing Unit",
+            "Computer Personal Unit",
+            "Central Program Utility",
+            "Computer Processing Utility"
+        ],
+        "answer": "a"
+    },
+    {
+        "question": "Which data type is used to store True or False?",
+        "options": ["String", "Boolean", "Integer", "Float"],
+        "answer": "b"
+    },
+    {
+        "question": "Which symbol is used to start a comment in Python?",
+        "options": ["//", "#", "<!--", "/*"],
+        "answer": "b"
+    },
+    {
+        "question": "What keyword is used to define a function in Python?",
+        "options": ["function", "define", "def", "func"],
+        "answer": "c"
+    },
+    {
+        "question": "Which planet is known as the Red Planet?",
+        "options": ["Earth", "Venus", "Mars", "Jupiter"],
+        "answer": "c"
+    },
+    {
+        "question": "What gas do humans need to breathe?",
+        "options": ["Carbon dioxide", "Oxygen", "Nitrogen", "Hydrogen"],
+        "answer": "b"
+    },
+    {
+        "question": "How many continents are there?",
+        "options": ["5", "6", "7", "8"],
+        "answer": "c"
+    },
+    {
+        "question": "Which of these is a Python collection that stores key-value pairs?",
+        "options": ["List", "Tuple", "Dictionary", "Set"],
+        "answer": "c"
+    },
+    {
+        "question": "What does HTML stand for?",
+        "options": [
+            "HyperText Markup Language",
+            "HighText Machine Language",
+            "Hyper Transfer Markup Language",
+            "Home Tool Markup Language"
+        ],
+        "answer": "a"
+    },
+    {
+        "question": "Which number is even?",
+        "options": ["7", "11", "15", "18"],
+        "answer": "d"
+    }
+]
